@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "不機嫌なスリーカード",
+  "base_artist": "HIMEHINA",
+  "createdAt": "2026-02-23T10:22:57.629281Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不機嫌なスリーカード",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/pl_01_不機嫌なスリーカード_HIMEHINA.txt"
+    }
+  ]
+}
